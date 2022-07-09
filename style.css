@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:cursive;
+}
+body{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+.main{
+    color: goldenrod;
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
